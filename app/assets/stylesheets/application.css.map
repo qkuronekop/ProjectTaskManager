@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,MAAO;EACH,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,UAAU,EAAE,KAAK;EACjB,gBAAgB,ECPD,OAAO;;;ADU1B,EAAG;EACC,OAAO,EAAE,IAAI;EACb,KAAK,ECLG,OAAO",
+"sources": ["header.scss","color.scss"],
+"names": [],
+"file": "application.css"
+}
