@@ -58,4 +58,6 @@ Rails.application.routes.draw do
   
   get '/test' => 'test#index'
   
+  get '/user/new' => 'user#new'
+  
 end
